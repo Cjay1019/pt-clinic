@@ -15,5 +15,9 @@ strong {
 }
 
 .avatars {
-  max-width: 20%;
+  max-width: 35%;
+}
+
+.row {
+  margin: 0 !important;
 }
